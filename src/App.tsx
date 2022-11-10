@@ -15,8 +15,8 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. O nome do projeto é Social Media Feed 🚀' },
+      { type: 'link', content: 'matheusfd3/social-media-feed' },
     ],
     publishedAt: new Date('2022-11-01 20:00:00'),
   },
@@ -29,8 +29,8 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Muito bacana o novo projeto do Matheus! Vão lá conferir!' },
+      { type: 'link', content: 'matheusfd3/social-media-feed' },
     ],
     publishedAt: new Date('2022-11-05 20:00:00'),
   },
